@@ -1,5 +1,3 @@
-AI-Powered Collaboration Tools and Platforms
-==========================================================================================================
 
 Effective communication and collaboration are essential for successful office project management. In this chapter, we will explore how AI can be used to enhance communication and collaboration in office project management through AI-powered collaboration tools and platforms.
 

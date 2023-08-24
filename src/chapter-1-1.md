@@ -1,5 +1,3 @@
-Understanding the Role of AI in Office Project Management
-=====================================================================================================================
 
 Artificial intelligence (AI) is transforming the way office project management is conducted. In this chapter, we will explore the role of AI in office project management and how it can help businesses achieve greater efficiency and effectiveness in managing projects.
 

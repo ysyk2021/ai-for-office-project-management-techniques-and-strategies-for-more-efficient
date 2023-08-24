@@ -1,5 +1,3 @@
-Chapter 5: Quality Control and Assurance with AI
-================================================
 
 Quality control and assurance are critical components of office project management. In this chapter, we will explore how AI can be leveraged to improve quality control and assurance.
 

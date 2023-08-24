@@ -1,5 +1,3 @@
-Importance of Ethical and Legal Guidelines for AI
-==================================================================================================================================
 
 As the use of artificial intelligence (AI) becomes more prevalent in office project management, ethical and legal considerations become increasingly important. In this chapter, we will explore the importance of ethical and legal guidelines for AI in office project management.
 

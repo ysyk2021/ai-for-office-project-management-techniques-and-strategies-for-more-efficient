@@ -1,5 +1,3 @@
-Using AI for Resource Allocation and Scheduling
-==============================================================================================================
 
 Project planning and scheduling are critical components of office project management. In this chapter, we will explore how AI can be used to enhance project planning and scheduling through resource allocation and scheduling.
 

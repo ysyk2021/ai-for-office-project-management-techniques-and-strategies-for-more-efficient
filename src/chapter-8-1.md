@@ -1,5 +1,3 @@
-Emerging Trends in AI for Project Management
-============================================================================================================================
 
 As artificial intelligence (AI) continues to evolve, its applications in office project management continue to expand. In this chapter, we will explore emerging trends in AI for project management and their potential impact on office project management.
 

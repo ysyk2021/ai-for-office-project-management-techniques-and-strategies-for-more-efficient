@@ -1,5 +1,3 @@
-Leveraging Machine Learning for Continuous Improvement
-========================================================================================================
 
 Quality control and assurance are critical components of office project management. In this chapter, we will explore how AI can be leveraged to improve quality control and assurance, using machine learning for continuous improvement.
 
@@ -43,5 +41,4 @@ Conclusion
 ----------
 
 In conclusion, AI-powered quality control and assurance offers valuable opportunities for office project managers to improve their processes and achieve continuous improvement. By leveraging automated data collection and analysis, predictive analytics, anomaly detection, and natural language processing, project managers can identify potential quality issues and take corrective action before they become serious problems. As the GE Aviation case study demonstrates, these benefits are achievable in real-world office project management systems, resulting in improved product quality and customer satisfaction.
-
 

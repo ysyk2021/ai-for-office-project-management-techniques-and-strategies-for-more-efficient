@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Project Management
-==================================================================
 
 AI-driven project management requires a variety of tools and technologies to be effective. In this chapter, we will provide an overview of the available tools and technologies for AI-driven project management and discuss how to select the right tools for your business needs.
 

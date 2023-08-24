@@ -1,5 +1,3 @@
-Chapter 4: Managing Risks with AI
-=================================
 
 Managing risks is a critical aspect of office project management. In this chapter, we will explore how AI can be used to manage risks in early detection and real-time risk management.
 

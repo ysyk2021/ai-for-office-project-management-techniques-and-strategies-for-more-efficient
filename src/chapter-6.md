@@ -1,5 +1,3 @@
-Chapter 6: Enhancing Communication and Collaboration with AI
-============================================================
 
 Effective communication and collaboration are essential for successful office project management. In this chapter, we will explore how AI can be used to enhance communication and collaboration in office project management.
 

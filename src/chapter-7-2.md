@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-=========================================================================================================================
 
 As the use of artificial intelligence (AI) becomes more prevalent in office project management, ethical and legal considerations become increasingly important. In this chapter, we will explore strategies for mitigating risks and ensuring compliance with ethical and legal guidelines for AI in office project management.
 
@@ -41,5 +39,4 @@ Conclusion
 ----------
 
 In conclusion, mitigating risks and ensuring compliance with ethical and legal guidelines for AI in office project management is essential. Strategies for mitigating risks include data quality control, explainability and transparency, and human oversight. Strategies for ensuring compliance include regular audits, employee training, and collaboration with regulatory bodies. By implementing these strategies, businesses can ensure that their AI systems are fair, transparent, accountable, and compliant with relevant laws and regulations.
-
 

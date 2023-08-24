@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI in Office Project Management
-==============================================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize the way businesses operate, including project management. In this chapter, we will explore emerging trends in AI for project management and discuss how organizations can unlock new opportunities with AI.
 

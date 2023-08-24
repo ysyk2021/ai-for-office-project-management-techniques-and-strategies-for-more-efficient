@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Considerations for AI in Office Project Management
-===============================================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize the way organizations manage projects. However, as with any technology, there are ethical and legal considerations that must be taken into account.
 

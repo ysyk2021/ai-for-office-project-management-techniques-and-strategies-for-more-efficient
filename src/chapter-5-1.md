@@ -1,5 +1,3 @@
-Automated Quality Control and Assurance using AI
-==================================================================================================
 
 Quality control and assurance are critical components of office project management. In this chapter, we will explore how AI can be leveraged to automate quality control and assurance processes.
 
