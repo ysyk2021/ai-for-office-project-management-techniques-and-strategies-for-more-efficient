@@ -1,5 +1,4 @@
-Chapter 14: Mitigating Risks and Ensuring Compliance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of mitigating risks and ensuring compliance in office project management when implementing AI solutions. While AI can bring significant benefits to project management, it also introduces new challenges and potential risks that organizations need to address proactively. By understanding these risks and implementing strategies for risk mitigation and compliance, organizations can leverage AI effectively while maintaining a secure and compliant project environment.
 

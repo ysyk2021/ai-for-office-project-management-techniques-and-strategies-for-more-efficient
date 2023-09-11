@@ -1,5 +1,4 @@
-Chapter 11: Overview of Available Tools and Technologies
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the available tools and technologies in AI for office project management. As organizations embrace AI to enhance efficiency, productivity, and project outcomes, a variety of tools and technologies have emerged to support these endeavors. Understanding the landscape of available tools is essential for selecting and implementing the most suitable AI solutions for office project management.
 

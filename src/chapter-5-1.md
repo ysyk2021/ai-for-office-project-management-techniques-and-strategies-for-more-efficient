@@ -1,5 +1,4 @@
-Chapter 15: Automated Quality Control and Assurance Using AI
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the benefits of using AI for automated quality control and assurance in office project management. With the increasing complexity and scale of projects, ensuring consistent and high-quality deliverables can be challenging. By leveraging AI, organizations can automate quality control processes, detect defects or anomalies, and enhance overall project quality and assurance.
 

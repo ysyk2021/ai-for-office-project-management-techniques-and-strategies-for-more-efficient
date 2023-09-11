@@ -1,5 +1,4 @@
-Chapter 12: Selecting the Right Tools for Your Business Needs
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the process of selecting the right AI tools for your business needs in office project management. With a growing number of AI solutions available, choosing the most suitable tools can be a daunting task. This chapter aims to provide guidance and key considerations to help you make informed decisions when selecting AI tools for your organization's specific requirements.
 

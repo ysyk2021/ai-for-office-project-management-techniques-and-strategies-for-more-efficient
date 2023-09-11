@@ -1,5 +1,4 @@
-Chapter 7: Streamlining Communication and Document Sharing with AI
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the techniques and strategies for streamlining communication and document sharing in office project management using AI. Effective communication and efficient document sharing are crucial for ensuring smooth collaboration, reducing bottlenecks, and improving overall operational efficiency. By leveraging AI technologies, organizations can enhance communication processes, facilitate seamless document sharing, and achieve more effective project management.
 

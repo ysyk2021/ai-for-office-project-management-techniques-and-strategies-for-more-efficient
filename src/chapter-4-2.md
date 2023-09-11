@@ -1,5 +1,4 @@
-Chapter 10: Real-Time Risk Management with AI
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the concept of real-time risk management using AI in office project management. Identifying and addressing risks promptly is crucial for project success and minimizing potential negative impacts. By leveraging AI technologies, organizations can enhance their risk management strategies, detect risks in real-time, and implement proactive measures to mitigate them effectively.
 

@@ -1,5 +1,4 @@
-Chapter 8: Early Detection of Project Risks with AI
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the techniques and strategies for early detection of project risks using AI in office project management. Identifying and mitigating risks in a timely manner is crucial for ensuring project success and avoiding costly delays or failures. By harnessing the power of AI technologies, organizations can proactively detect potential risks, analyze patterns, and implement mitigation measures to enhance project outcomes.
 

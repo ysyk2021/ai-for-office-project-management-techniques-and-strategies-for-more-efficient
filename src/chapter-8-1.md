@@ -1,5 +1,4 @@
-Chapter 19: Emerging Trends in AI for Project Management
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends in AI for office project management. As AI continues to advance and evolve, new techniques, strategies, and applications are emerging that have the potential to transform project management practices. By staying informed about these trends, organizations can harness the power of AI to drive even greater efficiency, effectiveness, and innovation in their project management endeavors.
 

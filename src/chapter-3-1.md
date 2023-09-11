@@ -1,5 +1,4 @@
-Chapter 17: Using AI for Resource Allocation and Scheduling
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can be leveraged for resource allocation and scheduling in office project management. With the complexity of projects and the varying availability and skills of resources, efficiently assigning resources and creating optimal schedules can be a daunting task. By harnessing the power of AI algorithms, organizations can automate resource allocation, optimize scheduling processes, and achieve more efficient and effective project outcomes.
 

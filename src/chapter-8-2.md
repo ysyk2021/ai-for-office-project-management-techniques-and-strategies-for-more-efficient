@@ -1,5 +1,4 @@
-Chapter 18: Unlocking New Opportunities with AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can unlock new opportunities in office project management, enabling organizations to achieve greater efficiency, effectiveness, and innovation. AI technologies offer a wide range of capabilities that can revolutionize project management practices, streamline workflows, and drive business growth. By embracing AI, organizations can stay ahead of the competition, discover new insights, and seize untapped potential in their project management endeavors.
 
